@@ -1,0 +1,101 @@
+.main{border-bottom:1px solid #dbdbdb;}
+.m_inner{width:1220px;margin:0 auto;}
+.m_inner .part1{height:200px;margin-top:60px;border:1px solid #dbdbdb;background-color:#FFFFFF;border-radius: 10px;}
+.m_inner .part1 .list{float:left;text-align:center;width:303px;height:200px;border-right: 1px dotted #dbdbdb;}
+.m_inner .part1 .list:hover{box-shadow:0 0 20px rgba(0,0,0,0.25) inset}
+.m_inner .part1 .list img{width:260px;height:108px;padding:23px 0 4px 0;}
+.m_inner .part1 .list img:hover{transform:translateX(5px);transition:transform .5s}
+.m_inner .part1 .list h4{font-size:18px;line-height: 31px;height:31px;color:#666666;}
+.m_inner .part1 .list p{font-size:12px;line-height: 19px;height:19px;}
+.m_inner .part1 .list p a{color:#c8c8c8;}
+.m_inner .part1 .list p a:hover{color:red;}
+.m_inner .part2{height:500px;margin-top:60px;border:1px solid #dbdbdb;background-color:#FFFFFF;border-radius: 10px;}
+.m_inner .part2 .shang{height:71px;border-bottom:1px solid #dbdbdb}
+.m_inner .part2 .shang .left{padding-left:30px;float:left;}
+.m_inner .part2 .shang .left h3{padding-top:13px;line-height:29px;font-size: 22px;color:#666666;font-family:"Micorsoft YaHei" ;}
+.m_inner .part2 .shang .left p{line-height:18px;font-size: 14px;color:#848484;}
+.m_inner .part2 .shang .right{float:right;padding-top:15px;padding-right:5px;}
+.m_inner .part2 .shang .right a{padding-top:10px;margin-right:9px;text-align:center;float:left;display:block;width:36px;height:25px;border:1px solid #dbdbdb;border-radius:3px;}
+.m_inner .part2 .shang .right a:hover{background:#3CF}
+.m_inner .part2 .list{float:left;text-align:center;width:303px;height:428px;border-right: 1px solid #dbdbdb;}
+.m_inner .part2 .list:hover{box-shadow:0 0 20px rgba(0,0,0,0.25) inset}
+.m_inner .part3 .list:hover{box-shadow:0 0 20px rgba(0,0,0,0.25) inset}
+.m_inner .part2 .list img{width:200px;height:206px;padding:51px 0 66px 0}
+.m_inner .part2 .list h4{font-size:18px;line-height: 45px;height:45px;}
+.m_inner .part2 .list h4 a{color:#535353;}
+.m_inner .part2 .list p{font-size:12px;line-height: 45px;height:45px;}
+.m_inner .part2 .list p a{color:#c3317f;}
+.m_inner .part2 .list p a:hover{color:red;}
+.m_inner .part2 .last img{padding:51px 0 76px 0}
+.m_inner .part2 .last h4{line-height: 25px;height:25px;color:#535353;}
+.m_inner .part2 .last p{line-height: 48px;height:48px;}
+.m_inner .part2 .last p a{color:#c3317f;}
+.m_inner .part2 .last p a:hover{color:red;}
+.m_inner .part2 .last span{font-size:12px;line-height: 20px;height:20px;color:#b2b2b2}
+
+.m_inner .p_mid{height:925px;margin-top:60px;border:1px solid #dbdbdb;background-color:#FFFFFF;border-radius: 10px;}
+.m_inner .p_mid .shang{height:71px;border-bottom:1px solid #dbdbdb}
+.m_inner .p_mid .shang .left{padding-left:30px;float:left;}
+.m_inner .p_mid .shang .left h3{padding-top:13px;line-height:29px;font-size: 22px;color:#666666;font-family:"Micorsoft YaHei" ;}
+.m_inner .p_mid .shang .left p{line-height:21px;height:21px;font-size: 14px;color:#848484;}
+.m_inner .p_mid .shang .right{float:right;padding:15px 14px 0 0}
+.m_inner .p_mid .shang .right a{width:92px;height:36px;text-align:center;display:block;border:1px solid #dbdbdb;border-radius:3px;background:url(../images/bg_05.jpg) no-repeat 80px center;font-size:14px;color:#666666;line-height:36px;padding-right:8px;}
+.m_inner .p_mid .shang .right a:hover{background-color:#3FF}
+.m_inner .p_mid .index{height:427px;float:left}
+.m_inner .p_mid .tu{border-right: 1px solid #dbdbdb;width:608px;height:427px;float:left;}
+
+
+.m_inner .p_mid .index .list{float:left;text-align:center;width:303px;height:427px;border-right: 1px solid #dbdbdb;}
+.m_inner .p_mid .index .list:hover{box-shadow:0 0 20px rgba(0,0,0,0.25) inset}
+.m_inner .p_mid .index .list img{width:206px;height:206px;padding:49px 0 69px 0;}
+.m_inner .p_mid .index .list h4{font-size:18px;line-height: 45px;height:45px;color:#535353;}
+.m_inner .p_mid .index .list h4 a{color:#535353;}
+.m_inner .p_mid .index .list p{font-size:12px;line-height: 40px;}
+.m_inner .p_mid .index .list p a{color:#c30a18;}
+.m_inner .p_mid .index .list p a:hover{color:red;}
+
+.m_inner .p_mid .undex .list{float:left;text-align:center;width:303px;height:427px;border-top:1px solid #dbdbdb;border-right: 1px solid #dbdbdb;}
+.m_inner .p_mid .undex .list:hover{box-shadow:0 0 20px rgba(0,0,0,0.25) inset}
+.m_inner .p_mid .undex .list img{width:206px;height:206px;padding:50px 0 68px 0;}
+.m_inner .p_mid .undex .list h4{font-size:18px;line-height: 45px;height:45px;}
+.m_inner .p_mid .undex .list h4 a{color:#535353;}
+.m_inner .p_mid .undex .list p{font-size:12px;line-height: 40px;}
+.m_inner .p_mid .undex .list p a{color:#c30a18;}
+.m_inner .p_mid .undex .list p a:hover{color:red;}
+.m_inner .p_mid .undex .last img{padding:51px 0 76px 0}
+.m_inner .p_mid .undex .last h4{line-height: 25px;height:25px;color:#535353;}
+.m_inner .p_mid .undex .last p{line-height: 48px;height:48px;}
+.m_inner .p_mid .undex .last p a{color:#c3317f;}
+.m_inner .p_mid .undex .last span{font-size:12px;line-height: 20px;height:20px;color:#b2b2b2}
+
+.m_inner .part3{height:334px;margin-top:30px;border:1px solid #dbdbdb;background-color:#FFFFFF;border-radius: 10px;}
+.m_inner .part3 .shang{height:71px;border-bottom:1px solid #dbdbdb}
+.m_inner .part3 .shang .left{padding-left:30px;float:left;}
+.m_inner .part3 .shang .left h3{padding-top:13px;line-height:29px;font-size: 22px;color:#666666;font-family:"Micorsoft YaHei" ;}
+.m_inner .part3 .shang .left p{line-height:21px;height:21px;font-size: 14px;color:#848484;}
+.m_inner .part3 .shang .right{float:right;padding:15px 14px 0 0}
+.m_inner .part3 .shang .right a{width:92px;height:36px;text-align:center;display:block;border:1px solid #dbdbdb;border-radius:3px;background:url(../images/bg_05.jpg) no-repeat 80px center;font-size:14px;color:#666666;line-height:36px;padding-right:8px;}
+.m_inner .part3 .list{float:left;text-align:center;width:303px;height:262px;border-right: 1px solid #dbdbdb;}
+.m_inner .part3 .shang .right a:hover{background-color:#3FF}
+.m_inner .part4 .shang .right a:hover{background-color:#3FF}
+.m_inner .part3 .list img{width:303px;height:200px;padding-bottom: 14px;}
+.m_inner .part3 .list h4{font-size:18px;line-height: 20px;height:20px;}
+.m_inner .part3 .list h4 a{color:#535353;}
+.m_inner .part3 .list p{font-size:12px;line-height: 20px;}
+.m_inner .part3 .list p a{color:#b2b2b2;}
+.m_inner .part3 .list p a:hover{color:red;}
+
+.m_inner .part4{height:460px;margin:30px 0 60px 0;border:1px solid #dbdbdb;background-color:#FFFFFF;border-radius: 10px;}
+.m_inner .part4 .shang{height:71px;border-bottom:1px solid #dbdbdb}
+.m_inner .part4 .shang .left{padding-left:30px;float:left;}
+.m_inner .part4 .shang .left h3{padding-top:13px;line-height:29px;font-size: 22px;color:#666666;font-family:"Micorsoft YaHei" ;}
+.m_inner .part4 .shang .right{float:right;padding:15px 14px 0 0}
+.m_inner .part4 .shang .right a{width:92px;height:36px;text-align:center;display:block;border:1px solid #dbdbdb;border-radius:3px;background:url(../images/bg_05.jpg) no-repeat 80px center;font-size:14px;color:#666666;line-height:36px;padding-right:8px;}
+.m_inner .part4 .list{padding:0 30px;float:left;width:243px;height:388px;border-right: 1px solid #dbdbdb;}
+.m_inner .part4 .list:hover{box-shadow:0 0 20px rgba(0,0,0,0.25) inset}
+.m_inner .part4 .list a{color:blue}
+.m_inner .part4 .list a:hover{text-decoration:underline;}
+.m_inner .part4 .list img{width:243px;height:156px;padding:30px 0 28px 0;}
+.m_inner .part4 .list h4{font-size:18px;line-height: 19px;color:#535353;}
+.m_inner .part4 .list p{font-size:12px;line-height: 18px;padding-top:21px;color:#b2b2b2;}
+.m_inner .part4 .list .text a{font-size:12px;line-height: 43px;color:#5079d9;}

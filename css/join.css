@@ -1,0 +1,18 @@
+.main{background-color:#ededed}
+.m_inner{margin:0 auto;width:1220px;height:587px;border-bottom:1px solid #dbdbdb;}
+.m_inner ul{float:left;width:1220px;height:30px;border-top:1px solid #dbdbdb;}
+.m_inner .part{box-shadow:0 0 5px rgba(0,0,0,0.2);float:left;width:1218px;height:481px;background-color:#ffffff;border:1px solid #dbdbdb;border-radius: 6px;}
+.m_inner .shang{height:98px;background-color:#efefef;border-bottom:1px solid #dbdbdb; ;}
+.m_inner .shang1{height:60px;background:url(../images/m_bg_03.jpg) repeat-x center center ;border-bottom:1px solid #dbdbdb ;}
+.m_inner .shang1 h3{padding-left:28px;line-height:60px;font-size:18px;color:#333333;}
+.m_inner .shang2{height:37px;background:url(../images/m_gg_03.jpg)  repeat-x center center ;text-align:center;}
+.m_inner .part .shang2 .p1{padding-left:28px;text-align:left;border-right:1px solid #dbdbdb;float:left;width:378px;height:37px;line-height:37px;font-size:12px;color:#8d8d8d;background:url()}
+.m_inner .part .shang2 .p2{border-right:1px solid #dbdbdb;float:left;width:202px;height:37px;line-height:37px;font-size:12px;color:#8d8d8d;}
+.m_inner .part .shang2 .p3{float:left;width:202px;height:37px;line-height:37px;font-size:12px;color:#8d8d8d;}
+.m_inner .part .xia .list{text-align:center;height:76px;border-bottom:1px solid #dbdbdb;font-size:12px;color:#8d8d8d;}
+.m_inner .part .xia .p1{padding-left:28px;text-align:left;border-right:1px solid #dbdbdb;float:left;width:378px;height:76px;line-height:76px;font-size:12px;color:#8d8d8d;}
+.m_inner .part .xia .p1 a{color:#8d8d8d;background:url(../images/jiantou_bg_07.jpg) no-repeat right center;padding-right:14px}
+.m_inner .part .xia .p2{border-right:1px solid #dbdbdb;float:left;width:202px;height:76px;line-height:76px;font-size:12px;color:#8d8d8d;}
+.m_inner .part .xia .p3{float:left;width:202px;height:76px;line-height:76px;font-size:12px;color:#8d8d8d;}
+.m_inner .part .xia .p3 .box a{margin:22px auto;display:block;width:98px;line-height:32px;height:32px;border:1px solid #dbdbdb;border-radius:6px;background:url(../images/m_neer_03.jpg) repeat-x}
+.m_inner .part .xia .p3 .box a:hover{color:red}

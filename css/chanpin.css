@@ -1,0 +1,24 @@
+.main{background-color:#ededed}
+.m_inner{margin:0 auto;width:1220px;height:1035px}
+.m_inner ul{float:left;width:1220px;border-top:1px solid #dbdbdb;}
+.m_inner li{float:left;height:58px;line-height: 58px;padding-right:40px;font-size:12px;}
+.m_inner li a{color:#999999;}
+.m_inner li a:hover{color:red}
+.m_inner .part{float:left;width:1220px;height:857px;background-color:#ffffff;border:1px solid #dbdbdb;}
+.m_inner .part p{font-size:12px;line-height:41px;color:#222222}
+.m_inner .part .list{float:left;text-align:center;width:303px;height:428px;border-right: 1px solid #dbdbdb;border-bottom: 1px solid #dbdbdb;}
+.m_inner .part .list:hover{box-shadow:0 0 20px rgba(0,0,0,0.25) inset}
+.m_inner .part .list img{width:206px;height:206px;padding:51px 0 48px 0}
+.m_inner .part .list h4{font-size:18px;line-height: 24px;height:24px;color:#535353;}
+.m_inner .part .list p{font-size:12px;line-height: 52px;height:52px;}
+.m_inner .part .list span{font-size:12px;color:#b2b2b2;line-height: 20px;height:20px;}
+.m_inner .part .list p a{color:#c3317f;}
+.m_inner .part .list p a:hover{color:red;}
+.m_inner .part .first img{width:206px;height:206px;padding:51px 0 36px 0}
+.m_inner .part .first h4{font-size:18px;line-height: 45px;height:45px;color:#535353;}
+.m_inner .part .first p{font-size:12px;line-height: 44px;height:44px;}
+.m_inner .box{width:1220px;float:left;height:70px;text-align:center;padding-top:50px}
+.m_inner .box_1{width:111px;height:41px;margin:0 auto;}
+.m_inner .box a{margin-right:13px;width:40px;line-height:41px;height:41px;border-radius:4px;border:1px solid #dbdbdb;color:#76838f;background-color:#FFFFFF;display:block;float:left}
+.m_inner .box a:hover{background-color:#3FF}
+.m_inner .box .first{background-color:#3FF}

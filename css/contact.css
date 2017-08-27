@@ -1,0 +1,11 @@
+.main{padding-bottom:80px;background-color:#ededed}
+.m_inner{margin:0 auto;width:1220px;height:832px;}
+.m_inner ul{float:left;width:1220px;border-top:1px solid #dbdbdb;}
+.m_inner li{float:left;height:60px;line-height: 60px;padding-right:40px;font-size:12px;}
+.m_inner li a{color:#999999;}
+.m_inner li a:hover{color:red;}
+.m_inner .part{padding-top:25px;float:left;width:1220px;height:715px;background-color:#ffffff;border:1px solid #dbdbdb;text-align:center;}
+.m_inner .part p{font-size:12px;line-height:48px;color:#222222}
+.m_inner .part .box{text-align:left;width:1156px;height:194px;margin-top:7px;border:1px solid #dbdbdb;margin:0 auto;}
+.m_inner .part .box .list{padding-top:8px;width:384px;height:195px;float:left;text-align: center;border-right:1px solid #dbdbdb;}
+.m_inner .part .box a img{width:369px;height:178px;}
